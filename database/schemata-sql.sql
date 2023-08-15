@@ -7,7 +7,6 @@
 
 
 CREATE TABLE "natural_disasters_data" (
-    "ID" serial   NOT NULL,
     "Year" int   NOT NULL,
     "Seq" int   NOT NULL,
     "Glide" varchar(255),
@@ -28,7 +27,6 @@ CREATE TABLE "natural_disasters_data" (
     "Latitude" float,
     "Longitude" float,
     "Local_Time" time,
-    "River_Basin" varchar(1000),
     "Start_Year" int   NOT NULL,
     "Start_Month" int,
     "Start_Day" int,
@@ -42,9 +40,6 @@ CREATE TABLE "natural_disasters_data" (
     "Total_Affected" int,
     "Insured_Damages_USD" int,
     "Total_Damages_USD" int,
-    "CPI" float,
-    CONSTRAINT "pk_natural_disasters_data" PRIMARY KEY (
-        "ID"
-     )
+    "CPI" float
 );
 
