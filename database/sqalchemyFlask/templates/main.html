@@ -16,9 +16,12 @@
         // Use D3 to fetch data from Flask endpoint
         d3.json("http://127.0.0.1:5000/get_data")
             .then(function(data) {
+                console.log(data)
                 // Extract x and y values
-                var xData = data.map(function(d) { return d.x; });
-                var yData = data.map(function(d) { return d.y; });
+                // var xData = data.map(function(d) { return d.x; });
+                // var yData = data.map(function(d) { return d.y; });
+                var xData = data.x;
+                var yData = data.y;
 
                 // Create a Plotly line chart
                 var trace = {
