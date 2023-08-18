@@ -1,16 +1,29 @@
-from flask import Flask, render_template, jsonify
+from flask import Flask, jsonify
 from flask_cors import CORS
-import random
+
+import helper
+# app = Flask(__name__)
+
 
 app = Flask(__name__)
-CORS(app)
+CORS(app)  # Enable CORS for the entire app
 
 @app.route('/')
 def index():
     return render_template('index.html')
 
+@app.route('/get_data')
+def get_data():
+    data = helper.ourdata()
+    return jsonify(data)
+
+
+
+
+
 # Generate mock data for different types of natural disasters
 # use SQLalchemy to download data from database
+"""-------------------------------------------------------------
 disasters = [
     {"type": "Earthquake", "count": random.randint(1, 50)},
     {"type": "Flood", "count": random.randint(1, 50)},
@@ -18,10 +31,10 @@ disasters = [
     {"type": "Hurricane", "count": random.randint(1, 50)},
     {"type": "Tornado", "count": random.randint(1, 50)}
 ]
-
+-------------------------------------------------------------------"""
 @app.route('/get_disasters')
 def get_disasters():
-    return jsonify(disasters)
+    return jsonify(helper.data)
 
 @app.route('/get_bar_data')
 def get_bar_data():
@@ -41,3 +54,4 @@ def get_bubble_data():
 
 if __name__ == '__main__':
     app.run(debug=True)
+

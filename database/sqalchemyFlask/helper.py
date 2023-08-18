@@ -16,7 +16,7 @@ def get_data_for_stuff():
     # query = data.select() #SELECT * FROM divisions
     # print(query)
 
-    exe = conn.execute(db.text("SELECT * FROM natural_disasters_data WHERE year is not null limit 100;")) #executing the query
+    exe = conn.execute(db.text("SELisasters_data WHERE year is not null ECT * FROM natural_dlimit 100;")) #executing the query
     result = exe.fetchmany(100) #extracting top 5 results
 
     year = []
