@@ -58,22 +58,3 @@ Slideshow: https://docs.google.com/presentation/
     - We can also invistigate and consider deaths in last 60 days following the disaster as an indirect victims of the disasters.
 
 ## Code References
-    - TA Anthony, Justin Schadwill, tutor Steve, and AskBCS Assistant Liang helped us with this project mostly the backend part.
-    - Chatgpt: "how back end and front end work?"
-    - Chatgpt: "how back end work"
-    - Chatgpt: "back end examples?"
-    - Chatgpt: "back end code example?"
-    - Chatgpt: "back end code example with python?"
-    - Chatgpt: "back end full code with python?"
-    - Chatgpt: "front end example?"
-    - Chatgpt: "front end full code example?"
-    - Chatgpt: "front end chart with d3.js full code example?"
-    - Chatgpt: "front end chart with plotly full code example?"
-    - Chatgpt: "whats wrong with the code"
-    - Chatgpt: "correct my code"
-    - Chatgpt: "how to overlay layers of maps in leaflet"
-    - Chatgpt: "how to overlay layers of maps in leaflet full code"
-    - Chatgpt: "write a code to draw a bar chart with chart.js library for both chart_data.js and index.html"
-    - Chatgpt: "how to download Chart.js library"
-    - Chatgpt: "how to center a text in html"
-    - Chatgpt: "how to make a space before the text in html"

@@ -44,7 +44,7 @@ def disaster_by_country():
     grouped_data = db.session.query(
         NaturalDisasters.Country,
         db.func.count(NaturalDisasters.id).label('count')
-    ).group_by(NaturalDisasters.Country).order_by(db.func.count(NaturalDisasters.id).desc()).all()
+    ).group_by(NaturalDisasters.Country).order_by(db.func.count(NaturalDisasters.id).desc()).limit(20).all()
     grouped_data_list = [{'x': group, 'y': count} for group, count in grouped_data]
     return jsonify(grouped_data_list)
 
