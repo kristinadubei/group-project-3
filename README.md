@@ -50,10 +50,30 @@ Slideshow: https://docs.google.com/presentation/
 
 ## Conclusion 
     We found that in the last 20 years disasters haven't ticked up, and flood and storms are the most occuring disasters in the five countries with the highest number of disasters.
+
 ## Potential Next Steps for The Project:
-    - Taking data of year 2015 and comparing it to our project study then taking data of upto last 10 years then comparing them with each other to see how trends have changed over years.
-    - I think the project lacked some more data such as vehicle conditions whether it was salvage or damaged, also lacks data such as whether urban or rural cities to know the consumer location,  Another data needed is that knowing the "median income" of consumer and whether purchased a vehicle with loan or without, also a study on engine type is needed to know if consumer favored electric over combustion and what average price change for each vehicle with a certain engine type.
+    - The data of these records can be not very reliable particularly for years before 1960, so many countries were not capale to record incidents like floods, animal attack, landslides, ...etc, still till today these incidents are not being always decumented.
+    - The number of deaths could be even bigger because like Puerto Rico was hit with hurricane and so many hospitals become out of service, so many patients missed their appointments for treatments as a result. So number of deaths could be bigger in an indirect way.
+    - As potential next steps we can only consider the most reliable data of 1985 and later, since more countries were more capable to record and document the incidents.
+    - We can also invistigate and consider deaths in last 60 days following the disaster as an indirect victims of the disasters.
 
 ## Code References
     - TA Anthony, Justin Schadwill, tutor Steve, and AskBCS Assistant Liang helped us with this project mostly the backend part.
-
+    - Chatgpt: "how back end and front end work?"
+    - Chatgpt: "how back end work"
+    - Chatgpt: "back end examples?"
+    - Chatgpt: "back end code example?"
+    - Chatgpt: "back end code example with python?"
+    - Chatgpt: "back end full code with python?"
+    - Chatgpt: "front end example?"
+    - Chatgpt: "front end full code example?"
+    - Chatgpt: "front end chart with d3.js full code example?"
+    - Chatgpt: "front end chart with plotly full code example?"
+    - Chatgpt: "whats wrong with the code"
+    - Chatgpt: "correct my code"
+    - Chatgpt: "how to overlay layers of maps in leaflet"
+    - Chatgpt: "how to overlay layers of maps in leaflet full code"
+    - Chatgpt: "write a code to draw a bar chart with chart.js library for both chart_data.js and index.html"
+    - Chatgpt: "how to download Chart.js library"
+    - Chatgpt: "how to center a text in html"
+    - Chatgpt: "how to make a space before the text in html"
