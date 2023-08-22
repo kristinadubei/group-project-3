@@ -29,20 +29,20 @@ We chose this dataset because it covers many aspects like disaster type, country
 - Using HTML enabled the preview of data as a webpage + CSS as code for styling.
 ​
 ## Analysis and Explanation
-+ ![Chart 1](<line_chart_of_disasters_per_year.png>) 
-This chart illustrates how number of disasters goes up over time. It significantly goes up from 1996.
+- ![imagename](TargetUrl)
+ex. This chart illustrates how number of disasters goes up over time. It significantly goes up from 1996.
 ​
-+ ![Chart 2](<bar_chart_of_most_occuring_disasters.png>)
-In this chart, we see the number of each disaster type. We notice that the most occurring disaster is a flood followed by a storm, while we notice that animal accidents, fog, impact, and glacial lake outbursts are the least occurring disasters.
+- ![imagename](TargetUrl)
+ex. In this chart, we see the number of each disaster type. We notice that the most occurring disaster is a flood followed by a storm, while we notice that animal accidents, fog, impact, and glacial lake outbursts are the least occurring disasters.
 ​
-+ ![Chart 3](<bar_chart_of_death_per_disaster.png>)
-This chart illustrates the death toll per disaster and which disaster is the most fatal than others. We notice that droughts followed by epidemics are the most fatal ones.
+- ![imagename](TargetUrl)
+ex. This chart illustrates the death toll per disaster and which disaster is the most fatal than others. We notice that droughts followed by epidemics are the most fatal ones.
 ​
-+ ![Chart 4](<bar_chart_of_counteries_with_the_number_of_disasters.png>)
-This chart shows countries with the number of disasters. We notice that the US followed by India, Indonesia, Bangladesh, and Iran are the most 5 countries with the number of disasters. 
+- ![imagename](TargetUrl)
+ex. This chart shows countries with the number of disasters. We notice that the US followed by India, Indonesia, Bangladesh, and Iran are the most 5 countries with the number of disasters. 
 ​
 ## Conclusion 
-We found that in the last 20 years, disasters haven't ticked up, and floods and storms are the most occurring disasters in the five countries with the highest number of disasters.
+ex. We found that in the last 20 years, disasters haven't ticked up, and floods and storms are the most occurring disasters in the five countries with the highest number of disasters.
 ​
 ## Dataset Limitations and Potential Next Steps for The Project:
 - Given dataset can be not fully reliable, particularly for years prior to 1960 - many countries were not capable to record all incidents such as floods, animal attacks, landslides, etc. Even to this day, not every incident in the world is being documented.
