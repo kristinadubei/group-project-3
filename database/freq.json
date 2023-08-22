@@ -1,0 +1,3266 @@
+[
+    {
+        "Year": 1900,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 9
+    },
+    {
+        "Year": 1901,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 4
+    },
+    {
+        "Year": 1902,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 12
+    },
+    {
+        "Year": 1902,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 27
+    },
+    {
+        "Year": 1902,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 11
+    },
+    {
+        "Year": 1903,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 65
+    },
+    {
+        "Year": 1904,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 16
+    },
+    {
+        "Year": 1904,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 8
+    },
+    {
+        "Year": 1905,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 29
+    },
+    {
+        "Year": 1905,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 9
+    },
+    {
+        "Year": 1906,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 29
+    },
+    {
+        "Year": 1906,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 58
+    },
+    {
+        "Year": 1906,
+        "Continent": "Europe",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 12
+    },
+    {
+        "Year": 1907,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 4
+    },
+    {
+        "Year": 1907,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 6
+    },
+    {
+        "Year": 1908,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 7
+    },
+    {
+        "Year": 1909,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 14
+    },
+    {
+        "Year": 1909,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 88
+    },
+    {
+        "Year": 1909,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 28
+    },
+    {
+        "Year": 1910,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 5
+    },
+    {
+        "Year": 1910,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 28
+    },
+    {
+        "Year": 1910,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 23
+    },
+    {
+        "Year": 1911,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 23
+    },
+    {
+        "Year": 1911,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 87
+    },
+    {
+        "Year": 1912,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 6
+    },
+    {
+        "Year": 1913,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 9
+    },
+    {
+        "Year": 1913,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 55
+    },
+    {
+        "Year": 1913,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 8
+    },
+    {
+        "Year": 1914,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 31
+    },
+    {
+        "Year": 1914,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 76
+    },
+    {
+        "Year": 1914,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 30
+    },
+    {
+        "Year": 1915,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 4
+    },
+    {
+        "Year": 1915,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 14
+    },
+    {
+        "Year": 1915,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2
+    },
+    {
+        "Year": 1916,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 31
+    },
+    {
+        "Year": 1917,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 9
+    },
+    {
+        "Year": 1917,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 38
+    },
+    {
+        "Year": 1918,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 8
+    },
+    {
+        "Year": 1918,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 31
+    },
+    {
+        "Year": 1920,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 36
+    },
+    {
+        "Year": 1920,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 7
+    },
+    {
+        "Year": 1920,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 32
+    },
+    {
+        "Year": 1922,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1
+    },
+    {
+        "Year": 1922,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 29
+    },
+    {
+        "Year": 1923,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 27
+    },
+    {
+        "Year": 1923,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 96
+    },
+    {
+        "Year": 1924,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 5
+    },
+    {
+        "Year": 1924,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 49
+    },
+    {
+        "Year": 1925,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 17
+    },
+    {
+        "Year": 1925,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 74
+    },
+    {
+        "Year": 1926,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 14
+    },
+    {
+        "Year": 1927,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 31
+    },
+    {
+        "Year": 1928,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 27
+    },
+    {
+        "Year": 1928,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 17
+    },
+    {
+        "Year": 1928,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1
+    },
+    {
+        "Year": 1929,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 12
+    },
+    {
+        "Year": 1929,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 13
+    },
+    {
+        "Year": 1930,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 28
+    },
+    {
+        "Year": 1930,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 255
+    },
+    {
+        "Year": 1930,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 110
+    },
+    {
+        "Year": 1931,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1
+    },
+    {
+        "Year": 1931,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 39
+    },
+    {
+        "Year": 1931,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 18
+    },
+    {
+        "Year": 1931,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 15
+    },
+    {
+        "Year": 1932,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 35
+    },
+    {
+        "Year": 1932,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 44
+    },
+    {
+        "Year": 1932,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 20
+    },
+    {
+        "Year": 1933,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 7
+    },
+    {
+        "Year": 1933,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 48
+    },
+    {
+        "Year": 1933,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 27
+    },
+    {
+        "Year": 1934,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 41
+    },
+    {
+        "Year": 1935,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 131
+    },
+    {
+        "Year": 1936,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 91
+    },
+    {
+        "Year": 1936,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 205
+    },
+    {
+        "Year": 1937,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 22
+    },
+    {
+        "Year": 1937,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 47
+    },
+    {
+        "Year": 1938,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 11
+    },
+    {
+        "Year": 1939,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 5
+    },
+    {
+        "Year": 1939,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 28
+    },
+    {
+        "Year": 1939,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 67
+    },
+    {
+        "Year": 1940,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 17
+    },
+    {
+        "Year": 1940,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 106
+    },
+    {
+        "Year": 1940,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1
+    },
+    {
+        "Year": 1941,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 240
+    },
+    {
+        "Year": 1942,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 40
+    },
+    {
+        "Year": 1942,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 136
+    },
+    {
+        "Year": 1942,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 42
+    },
+    {
+        "Year": 1943,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 17
+    },
+    {
+        "Year": 1943,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 225
+    },
+    {
+        "Year": 1943,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 52
+    },
+    {
+        "Year": 1944,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2
+    },
+    {
+        "Year": 1944,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 130
+    },
+    {
+        "Year": 1944,
+        "Continent": "Europe",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 44
+    },
+    {
+        "Year": 1945,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 96
+    },
+    {
+        "Year": 1946,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1
+    },
+    {
+        "Year": 1946,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 58
+    },
+    {
+        "Year": 1946,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 84
+    },
+    {
+        "Year": 1946,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 23
+    },
+    {
+        "Year": 1947,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 13
+    },
+    {
+        "Year": 1947,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1
+    },
+    {
+        "Year": 1947,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 28
+    },
+    {
+        "Year": 1948,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 86
+    },
+    {
+        "Year": 1948,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 43
+    },
+    {
+        "Year": 1949,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 36
+    },
+    {
+        "Year": 1949,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 48
+    },
+    {
+        "Year": 1949,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 8
+    },
+    {
+        "Year": 1950,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 62
+    },
+    {
+        "Year": 1950,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 113
+    },
+    {
+        "Year": 1951,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 50
+    },
+    {
+        "Year": 1951,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 150
+    },
+    {
+        "Year": 1951,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 43
+    },
+    {
+        "Year": 1952,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 62
+    },
+    {
+        "Year": 1952,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 203
+    },
+    {
+        "Year": 1952,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 36
+    },
+    {
+        "Year": 1953,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 55
+    },
+    {
+        "Year": 1953,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 200
+    },
+    {
+        "Year": 1953,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1
+    },
+    {
+        "Year": 1954,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 17
+    },
+    {
+        "Year": 1954,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 40
+    },
+    {
+        "Year": 1954,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 117
+    },
+    {
+        "Year": 1955,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 20
+    },
+    {
+        "Year": 1955,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 57
+    },
+    {
+        "Year": 1955,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 95
+    },
+    {
+        "Year": 1955,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 56
+    },
+    {
+        "Year": 1956,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 53
+    },
+    {
+        "Year": 1956,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 93
+    },
+    {
+        "Year": 1957,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 15
+    },
+    {
+        "Year": 1957,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 9
+    },
+    {
+        "Year": 1957,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 76
+    },
+    {
+        "Year": 1957,
+        "Continent": "Oceania",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 11
+    },
+    {
+        "Year": 1958,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 53
+    },
+    {
+        "Year": 1958,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 25
+    },
+    {
+        "Year": 1959,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 54
+    },
+    {
+        "Year": 1959,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 50
+    },
+    {
+        "Year": 1960,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 43
+    },
+    {
+        "Year": 1960,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 7
+    },
+    {
+        "Year": 1960,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2
+    },
+    {
+        "Year": 1960,
+        "Continent": "Oceania",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 11
+    },
+    {
+        "Year": 1961,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 16
+    },
+    {
+        "Year": 1961,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 121
+    },
+    {
+        "Year": 1962,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 30
+    },
+    {
+        "Year": 1962,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 6
+    },
+    {
+        "Year": 1962,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 89
+    },
+    {
+        "Year": 1963,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1
+    },
+    {
+        "Year": 1963,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 50
+    },
+    {
+        "Year": 1963,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 16
+    },
+    {
+        "Year": 1964,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 27
+    },
+    {
+        "Year": 1964,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 53
+    },
+    {
+        "Year": 1964,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 109
+    },
+    {
+        "Year": 1964,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 16
+    },
+    {
+        "Year": 1965,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2
+    },
+    {
+        "Year": 1965,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 65
+    },
+    {
+        "Year": 1965,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 200
+    },
+    {
+        "Year": 1965,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 123
+    },
+    {
+        "Year": 1966,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 39
+    },
+    {
+        "Year": 1966,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 172
+    },
+    {
+        "Year": 1966,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 597
+    },
+    {
+        "Year": 1966,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 136
+    },
+    {
+        "Year": 1967,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 135
+    },
+    {
+        "Year": 1967,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 207
+    },
+    {
+        "Year": 1967,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 729
+    },
+    {
+        "Year": 1967,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 312
+    },
+    {
+        "Year": 1968,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 285
+    },
+    {
+        "Year": 1968,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 499
+    },
+    {
+        "Year": 1968,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 137
+    },
+    {
+        "Year": 1968,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 176
+    },
+    {
+        "Year": 1969,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 469
+    },
+    {
+        "Year": 1969,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 98
+    },
+    {
+        "Year": 1969,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 239
+    },
+    {
+        "Year": 1969,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 262
+    },
+    {
+        "Year": 1970,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 351
+    },
+    {
+        "Year": 1970,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 317
+    },
+    {
+        "Year": 1970,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 60
+    },
+    {
+        "Year": 1971,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 58
+    },
+    {
+        "Year": 1971,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 204
+    },
+    {
+        "Year": 1971,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 14
+    },
+    {
+        "Year": 1972,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 91
+    },
+    {
+        "Year": 1972,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 310
+    },
+    {
+        "Year": 1972,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 234
+    },
+    {
+        "Year": 1973,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 370
+    },
+    {
+        "Year": 1973,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 314
+    },
+    {
+        "Year": 1974,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 389
+    },
+    {
+        "Year": 1974,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 114
+    },
+    {
+        "Year": 1975,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 155
+    },
+    {
+        "Year": 1975,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 84
+    },
+    {
+        "Year": 1975,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 43
+    },
+    {
+        "Year": 1976,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 125
+    },
+    {
+        "Year": 1976,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 77
+    },
+    {
+        "Year": 1976,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 580
+    },
+    {
+        "Year": 1976,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 292
+    },
+    {
+        "Year": 1976,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 21
+    },
+    {
+        "Year": 1977,
+        "Continent": "Africa",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 37
+    },
+    {
+        "Year": 1977,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 137
+    },
+    {
+        "Year": 1977,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 669
+    },
+    {
+        "Year": 1977,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 96
+    },
+    {
+        "Year": 1977,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 391
+    },
+    {
+        "Year": 1978,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 135
+    },
+    {
+        "Year": 1978,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 626
+    },
+    {
+        "Year": 1978,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 251
+    },
+    {
+        "Year": 1979,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 370
+    },
+    {
+        "Year": 1979,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1511
+    },
+    {
+        "Year": 1979,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 605
+    },
+    {
+        "Year": 1979,
+        "Continent": "Europe",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 87
+    },
+    {
+        "Year": 1980,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 96
+    },
+    {
+        "Year": 1980,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 513
+    },
+    {
+        "Year": 1980,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 728
+    },
+    {
+        "Year": 1980,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 389
+    },
+    {
+        "Year": 1981,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 452
+    },
+    {
+        "Year": 1981,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 382
+    },
+    {
+        "Year": 1981,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 575
+    },
+    {
+        "Year": 1982,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1216
+    },
+    {
+        "Year": 1982,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 521
+    },
+    {
+        "Year": 1982,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 574
+    },
+    {
+        "Year": 1983,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 161
+    },
+    {
+        "Year": 1983,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1298
+    },
+    {
+        "Year": 1983,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1795
+    },
+    {
+        "Year": 1983,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 903
+    },
+    {
+        "Year": 1983,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 162
+    },
+    {
+        "Year": 1983,
+        "Continent": "Oceania",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 132
+    },
+    {
+        "Year": 1984,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1777
+    },
+    {
+        "Year": 1984,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 359
+    },
+    {
+        "Year": 1985,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 386
+    },
+    {
+        "Year": 1985,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 485
+    },
+    {
+        "Year": 1985,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 736
+    },
+    {
+        "Year": 1985,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 393
+    },
+    {
+        "Year": 1985,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 227
+    },
+    {
+        "Year": 1986,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 994
+    },
+    {
+        "Year": 1986,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1335
+    },
+    {
+        "Year": 1986,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 530
+    },
+    {
+        "Year": 1986,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 76
+    },
+    {
+        "Year": 1987,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 306
+    },
+    {
+        "Year": 1987,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1063
+    },
+    {
+        "Year": 1987,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 880
+    },
+    {
+        "Year": 1987,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 126
+    },
+    {
+        "Year": 1988,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 411
+    },
+    {
+        "Year": 1988,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 506
+    },
+    {
+        "Year": 1988,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1566
+    },
+    {
+        "Year": 1988,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1697
+    },
+    {
+        "Year": 1988,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 675
+    },
+    {
+        "Year": 1989,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 306
+    },
+    {
+        "Year": 1989,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 459
+    },
+    {
+        "Year": 1989,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1690
+    },
+    {
+        "Year": 1989,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 27
+    },
+    {
+        "Year": 1989,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 142
+    },
+    {
+        "Year": 1990,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1142
+    },
+    {
+        "Year": 1990,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1704
+    },
+    {
+        "Year": 1990,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 30
+    },
+    {
+        "Year": 1990,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2306
+    },
+    {
+        "Year": 1990,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 12
+    },
+    {
+        "Year": 1990,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1854
+    },
+    {
+        "Year": 1990,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1226
+    },
+    {
+        "Year": 1991,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 3118
+    },
+    {
+        "Year": 1991,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 1269
+    },
+    {
+        "Year": 1991,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2673
+    },
+    {
+        "Year": 1991,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 864
+    },
+    {
+        "Year": 1991,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1876
+    },
+    {
+        "Year": 1991,
+        "Continent": "Europe",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 759
+    },
+    {
+        "Year": 1992,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 225
+    },
+    {
+        "Year": 1992,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1186
+    },
+    {
+        "Year": 1992,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 119
+    },
+    {
+        "Year": 1992,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2462
+    },
+    {
+        "Year": 1992,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 133
+    },
+    {
+        "Year": 1992,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 279
+    },
+    {
+        "Year": 1992,
+        "Continent": "Oceania",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 146
+    },
+    {
+        "Year": 1993,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 56
+    },
+    {
+        "Year": 1993,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1384
+    },
+    {
+        "Year": 1993,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 106
+    },
+    {
+        "Year": 1993,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2097
+    },
+    {
+        "Year": 1993,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 293
+    },
+    {
+        "Year": 1993,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 715
+    },
+    {
+        "Year": 1993,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 259
+    },
+    {
+        "Year": 1994,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 247
+    },
+    {
+        "Year": 1994,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 718
+    },
+    {
+        "Year": 1994,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 764
+    },
+    {
+        "Year": 1994,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 5067
+    },
+    {
+        "Year": 1994,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 540
+    },
+    {
+        "Year": 1994,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 342
+    },
+    {
+        "Year": 1994,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 718
+    },
+    {
+        "Year": 1994,
+        "Continent": "Oceania",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 212
+    },
+    {
+        "Year": 1995,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 293
+    },
+    {
+        "Year": 1995,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1453
+    },
+    {
+        "Year": 1995,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 283
+    },
+    {
+        "Year": 1995,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2374
+    },
+    {
+        "Year": 1995,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 619
+    },
+    {
+        "Year": 1995,
+        "Continent": "Oceania",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 237
+    },
+    {
+        "Year": 1996,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 365
+    },
+    {
+        "Year": 1996,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 262
+    },
+    {
+        "Year": 1996,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 987
+    },
+    {
+        "Year": 1996,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 391
+    },
+    {
+        "Year": 1996,
+        "Continent": "Europe",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 237
+    },
+    {
+        "Year": 1996,
+        "Continent": "Oceania",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 538
+    },
+    {
+        "Year": 1997,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 534
+    },
+    {
+        "Year": 1997,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 626
+    },
+    {
+        "Year": 1997,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 389
+    },
+    {
+        "Year": 1997,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 3237
+    },
+    {
+        "Year": 1997,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 12
+    },
+    {
+        "Year": 1997,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 228
+    },
+    {
+        "Year": 1997,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 539
+    },
+    {
+        "Year": 1998,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1108
+    },
+    {
+        "Year": 1998,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 681
+    },
+    {
+        "Year": 1998,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 7286
+    },
+    {
+        "Year": 1998,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 218
+    },
+    {
+        "Year": 1998,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1088
+    },
+    {
+        "Year": 1998,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 220
+    },
+    {
+        "Year": 1999,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 561
+    },
+    {
+        "Year": 1999,
+        "Continent": "Africa",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 100
+    },
+    {
+        "Year": 1999,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2426
+    },
+    {
+        "Year": 1999,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 1761
+    },
+    {
+        "Year": 1999,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 6570
+    },
+    {
+        "Year": 1999,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1588
+    },
+    {
+        "Year": 1999,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 524
+    },
+    {
+        "Year": 2000,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 653
+    },
+    {
+        "Year": 2000,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1177
+    },
+    {
+        "Year": 2000,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 812
+    },
+    {
+        "Year": 2000,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 7538
+    },
+    {
+        "Year": 2000,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 265
+    },
+    {
+        "Year": 2000,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1194
+    },
+    {
+        "Year": 2000,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 749
+    },
+    {
+        "Year": 2001,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 5
+    },
+    {
+        "Year": 2001,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 299
+    },
+    {
+        "Year": 2001,
+        "Continent": "Africa",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 732
+    },
+    {
+        "Year": 2001,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1976
+    },
+    {
+        "Year": 2001,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 456
+    },
+    {
+        "Year": 2001,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 4995
+    },
+    {
+        "Year": 2001,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 297
+    },
+    {
+        "Year": 2001,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 749
+    },
+    {
+        "Year": 2001,
+        "Continent": "Europe",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 378
+    },
+    {
+        "Year": 2001,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 345
+    },
+    {
+        "Year": 2001,
+        "Continent": "Oceania",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 254
+    },
+    {
+        "Year": 2002,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1241
+    },
+    {
+        "Year": 2002,
+        "Continent": "Africa",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 33
+    },
+    {
+        "Year": 2002,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 368
+    },
+    {
+        "Year": 2002,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 1005
+    },
+    {
+        "Year": 2002,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 10017
+    },
+    {
+        "Year": 2002,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 3243
+    },
+    {
+        "Year": 2002,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1419
+    },
+    {
+        "Year": 2003,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 500
+    },
+    {
+        "Year": 2003,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2806
+    },
+    {
+        "Year": 2003,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 326
+    },
+    {
+        "Year": 2003,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 11094
+    },
+    {
+        "Year": 2003,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1081
+    },
+    {
+        "Year": 2004,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 4011
+    },
+    {
+        "Year": 2004,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2764
+    },
+    {
+        "Year": 2004,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 10845
+    },
+    {
+        "Year": 2004,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1589
+    },
+    {
+        "Year": 2005,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1474
+    },
+    {
+        "Year": 2005,
+        "Continent": "Africa",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 818
+    },
+    {
+        "Year": 2005,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1440
+    },
+    {
+        "Year": 2005,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 1301
+    },
+    {
+        "Year": 2005,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 6358
+    },
+    {
+        "Year": 2005,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 328
+    },
+    {
+        "Year": 2005,
+        "Continent": "Oceania",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 972
+    },
+    {
+        "Year": 2006,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 249
+    },
+    {
+        "Year": 2006,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 13698
+    },
+    {
+        "Year": 2006,
+        "Continent": "Africa",
+        "Disaster_Type": "Landslide",
+        "Seq": 646
+    },
+    {
+        "Year": 2006,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1403
+    },
+    {
+        "Year": 2006,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 8345
+    },
+    {
+        "Year": 2006,
+        "Continent": "Americas",
+        "Disaster_Type": "Storm",
+        "Seq": 2058
+    },
+    {
+        "Year": 2006,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 869
+    },
+    {
+        "Year": 2006,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 7575
+    },
+    {
+        "Year": 2006,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 27837
+    },
+    {
+        "Year": 2006,
+        "Continent": "Asia",
+        "Disaster_Type": "Landslide",
+        "Seq": 894
+    },
+    {
+        "Year": 2006,
+        "Continent": "Asia",
+        "Disaster_Type": "Storm",
+        "Seq": 7927
+    },
+    {
+        "Year": 2006,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 450
+    },
+    {
+        "Year": 2006,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 362
+    },
+    {
+        "Year": 2006,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 5976
+    },
+    {
+        "Year": 2006,
+        "Continent": "Oceania",
+        "Disaster_Type": "Flood",
+        "Seq": 760
+    },
+    {
+        "Year": 2006,
+        "Continent": "Oceania",
+        "Disaster_Type": "Landslide",
+        "Seq": 222
+    },
+    {
+        "Year": 2006,
+        "Continent": "Oceania",
+        "Disaster_Type": "Storm",
+        "Seq": 410
+    },
+    {
+        "Year": 2006,
+        "Continent": "Oceania",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 281
+    },
+    {
+        "Year": 2007,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 15290
+    },
+    {
+        "Year": 2007,
+        "Continent": "Africa",
+        "Disaster_Type": "Storm",
+        "Seq": 95
+    },
+    {
+        "Year": 2007,
+        "Continent": "Africa",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 363
+    },
+    {
+        "Year": 2007,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 4370
+    },
+    {
+        "Year": 2007,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 11536
+    },
+    {
+        "Year": 2007,
+        "Continent": "Americas",
+        "Disaster_Type": "Storm",
+        "Seq": 8529
+    },
+    {
+        "Year": 2007,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 150
+    },
+    {
+        "Year": 2007,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 3094
+    },
+    {
+        "Year": 2007,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 24036
+    },
+    {
+        "Year": 2007,
+        "Continent": "Asia",
+        "Disaster_Type": "Landslide",
+        "Seq": 16
+    },
+    {
+        "Year": 2007,
+        "Continent": "Asia",
+        "Disaster_Type": "Storm",
+        "Seq": 6856
+    },
+    {
+        "Year": 2007,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 1180
+    },
+    {
+        "Year": 2007,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1026
+    },
+    {
+        "Year": 2007,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 4980
+    },
+    {
+        "Year": 2007,
+        "Continent": "Europe",
+        "Disaster_Type": "Storm",
+        "Seq": 628
+    },
+    {
+        "Year": 2007,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 127
+    },
+    {
+        "Year": 2007,
+        "Continent": "Oceania",
+        "Disaster_Type": "Flood",
+        "Seq": 860
+    },
+    {
+        "Year": 2007,
+        "Continent": "Oceania",
+        "Disaster_Type": "Storm",
+        "Seq": 1281
+    },
+    {
+        "Year": 2008,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 80
+    },
+    {
+        "Year": 2008,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 6452
+    },
+    {
+        "Year": 2008,
+        "Continent": "Africa",
+        "Disaster_Type": "Storm",
+        "Seq": 70
+    },
+    {
+        "Year": 2008,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 748
+    },
+    {
+        "Year": 2008,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 6952
+    },
+    {
+        "Year": 2008,
+        "Continent": "Americas",
+        "Disaster_Type": "Storm",
+        "Seq": 1211
+    },
+    {
+        "Year": 2008,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 910
+    },
+    {
+        "Year": 2008,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 6000
+    },
+    {
+        "Year": 2008,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 14664
+    },
+    {
+        "Year": 2008,
+        "Continent": "Asia",
+        "Disaster_Type": "Landslide",
+        "Seq": 189
+    },
+    {
+        "Year": 2008,
+        "Continent": "Asia",
+        "Disaster_Type": "Storm",
+        "Seq": 3050
+    },
+    {
+        "Year": 2008,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 702
+    },
+    {
+        "Year": 2008,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 1015
+    },
+    {
+        "Year": 2008,
+        "Continent": "Oceania",
+        "Disaster_Type": "Flood",
+        "Seq": 710
+    },
+    {
+        "Year": 2008,
+        "Continent": "Oceania",
+        "Disaster_Type": "Storm",
+        "Seq": 525
+    },
+    {
+        "Year": 2009,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1120
+    },
+    {
+        "Year": 2009,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 4750
+    },
+    {
+        "Year": 2009,
+        "Continent": "Africa",
+        "Disaster_Type": "Storm",
+        "Seq": 47
+    },
+    {
+        "Year": 2009,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 207
+    },
+    {
+        "Year": 2009,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 6407
+    },
+    {
+        "Year": 2009,
+        "Continent": "Americas",
+        "Disaster_Type": "Landslide",
+        "Seq": 641
+    },
+    {
+        "Year": 2009,
+        "Continent": "Americas",
+        "Disaster_Type": "Storm",
+        "Seq": 477
+    },
+    {
+        "Year": 2009,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 3842
+    },
+    {
+        "Year": 2009,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 10190
+    },
+    {
+        "Year": 2009,
+        "Continent": "Asia",
+        "Disaster_Type": "Landslide",
+        "Seq": 507
+    },
+    {
+        "Year": 2009,
+        "Continent": "Asia",
+        "Disaster_Type": "Storm",
+        "Seq": 626
+    },
+    {
+        "Year": 2009,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 574
+    },
+    {
+        "Year": 2009,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 502
+    },
+    {
+        "Year": 2009,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 1796
+    },
+    {
+        "Year": 2009,
+        "Continent": "Europe",
+        "Disaster_Type": "Storm",
+        "Seq": 14
+    },
+    {
+        "Year": 2009,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1260
+    },
+    {
+        "Year": 2009,
+        "Continent": "Oceania",
+        "Disaster_Type": "Flood",
+        "Seq": 641
+    },
+    {
+        "Year": 2009,
+        "Continent": "Oceania",
+        "Disaster_Type": "Storm",
+        "Seq": 278
+    },
+    {
+        "Year": 2010,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 4068
+    },
+    {
+        "Year": 2010,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 293
+    },
+    {
+        "Year": 2010,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 3822
+    },
+    {
+        "Year": 2010,
+        "Continent": "Americas",
+        "Disaster_Type": "Storm",
+        "Seq": 1781
+    },
+    {
+        "Year": 2010,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 494
+    },
+    {
+        "Year": 2010,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 6543
+    },
+    {
+        "Year": 2010,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 12481
+    },
+    {
+        "Year": 2010,
+        "Continent": "Asia",
+        "Disaster_Type": "Storm",
+        "Seq": 1124
+    },
+    {
+        "Year": 2010,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 1052
+    },
+    {
+        "Year": 2010,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 574
+    },
+    {
+        "Year": 2010,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 3404
+    },
+    {
+        "Year": 2010,
+        "Continent": "Europe",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 170
+    },
+    {
+        "Year": 2010,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 466
+    },
+    {
+        "Year": 2010,
+        "Continent": "Oceania",
+        "Disaster_Type": "Flood",
+        "Seq": 1914
+    },
+    {
+        "Year": 2011,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 5269
+    },
+    {
+        "Year": 2011,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1328
+    },
+    {
+        "Year": 2011,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 2835
+    },
+    {
+        "Year": 2011,
+        "Continent": "Americas",
+        "Disaster_Type": "Storm",
+        "Seq": 569
+    },
+    {
+        "Year": 2011,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 418
+    },
+    {
+        "Year": 2011,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 6177
+    },
+    {
+        "Year": 2011,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 7743
+    },
+    {
+        "Year": 2011,
+        "Continent": "Asia",
+        "Disaster_Type": "Storm",
+        "Seq": 519
+    },
+    {
+        "Year": 2011,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 1739
+    },
+    {
+        "Year": 2011,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 159
+    },
+    {
+        "Year": 2011,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 416
+    },
+    {
+        "Year": 2011,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 456
+    },
+    {
+        "Year": 2011,
+        "Continent": "Oceania",
+        "Disaster_Type": "Flood",
+        "Seq": 80
+    },
+    {
+        "Year": 2012,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 2956
+    },
+    {
+        "Year": 2012,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1020
+    },
+    {
+        "Year": 2012,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 1355
+    },
+    {
+        "Year": 2012,
+        "Continent": "Americas",
+        "Disaster_Type": "Storm",
+        "Seq": 802
+    },
+    {
+        "Year": 2012,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 6535
+    },
+    {
+        "Year": 2012,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 6394
+    },
+    {
+        "Year": 2012,
+        "Continent": "Asia",
+        "Disaster_Type": "Storm",
+        "Seq": 839
+    },
+    {
+        "Year": 2012,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 456
+    },
+    {
+        "Year": 2012,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 2021
+    },
+    {
+        "Year": 2012,
+        "Continent": "Oceania",
+        "Disaster_Type": "Flood",
+        "Seq": 122
+    },
+    {
+        "Year": 2013,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 1912
+    },
+    {
+        "Year": 2013,
+        "Continent": "Africa",
+        "Disaster_Type": "Storm",
+        "Seq": 438
+    },
+    {
+        "Year": 2013,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 872
+    },
+    {
+        "Year": 2013,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 4095
+    },
+    {
+        "Year": 2013,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 6315
+    },
+    {
+        "Year": 2013,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 5120
+    },
+    {
+        "Year": 2013,
+        "Continent": "Asia",
+        "Disaster_Type": "Storm",
+        "Seq": 533
+    },
+    {
+        "Year": 2013,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 542
+    },
+    {
+        "Year": 2013,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 121
+    },
+    {
+        "Year": 2013,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 1860
+    },
+    {
+        "Year": 2013,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 297
+    },
+    {
+        "Year": 2014,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 867
+    },
+    {
+        "Year": 2014,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 281
+    },
+    {
+        "Year": 2014,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1740
+    },
+    {
+        "Year": 2014,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 813
+    },
+    {
+        "Year": 2014,
+        "Continent": "Americas",
+        "Disaster_Type": "Landslide",
+        "Seq": 35
+    },
+    {
+        "Year": 2014,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 3442
+    },
+    {
+        "Year": 2014,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 313
+    },
+    {
+        "Year": 2014,
+        "Continent": "Asia",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 775
+    },
+    {
+        "Year": 2014,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 223
+    },
+    {
+        "Year": 2014,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 437
+    },
+    {
+        "Year": 2014,
+        "Continent": "Oceania",
+        "Disaster_Type": "Flood",
+        "Seq": 188
+    },
+    {
+        "Year": 2015,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 336
+    },
+    {
+        "Year": 2015,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 2922
+    },
+    {
+        "Year": 2015,
+        "Continent": "Africa",
+        "Disaster_Type": "Storm",
+        "Seq": 69
+    },
+    {
+        "Year": 2015,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 521
+    },
+    {
+        "Year": 2015,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 5082
+    },
+    {
+        "Year": 2015,
+        "Continent": "Americas",
+        "Disaster_Type": "Landslide",
+        "Seq": 615
+    },
+    {
+        "Year": 2015,
+        "Continent": "Americas",
+        "Disaster_Type": "Storm",
+        "Seq": 929
+    },
+    {
+        "Year": 2015,
+        "Continent": "Americas",
+        "Disaster_Type": "Volcanic activity",
+        "Seq": 911
+    },
+    {
+        "Year": 2015,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 5912
+    },
+    {
+        "Year": 2015,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 5105
+    },
+    {
+        "Year": 2015,
+        "Continent": "Asia",
+        "Disaster_Type": "Landslide",
+        "Seq": 226
+    },
+    {
+        "Year": 2015,
+        "Continent": "Asia",
+        "Disaster_Type": "Storm",
+        "Seq": 462
+    },
+    {
+        "Year": 2015,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 1898
+    },
+    {
+        "Year": 2015,
+        "Continent": "Oceania",
+        "Disaster_Type": "Flood",
+        "Seq": 462
+    },
+    {
+        "Year": 2016,
+        "Continent": "Africa",
+        "Disaster_Type": "Earthquake",
+        "Seq": 329
+    },
+    {
+        "Year": 2016,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 1211
+    },
+    {
+        "Year": 2016,
+        "Continent": "Africa",
+        "Disaster_Type": "Landslide",
+        "Seq": 164
+    },
+    {
+        "Year": 2016,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1523
+    },
+    {
+        "Year": 2016,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 3074
+    },
+    {
+        "Year": 2016,
+        "Continent": "Americas",
+        "Disaster_Type": "Storm",
+        "Seq": 203
+    },
+    {
+        "Year": 2016,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 4336
+    },
+    {
+        "Year": 2016,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 5481
+    },
+    {
+        "Year": 2016,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1363
+    },
+    {
+        "Year": 2016,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 1914
+    },
+    {
+        "Year": 2016,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 395
+    },
+    {
+        "Year": 2016,
+        "Continent": "Oceania",
+        "Disaster_Type": "Flood",
+        "Seq": 524
+    },
+    {
+        "Year": 2017,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 1663
+    },
+    {
+        "Year": 2017,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 769
+    },
+    {
+        "Year": 2017,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 2824
+    },
+    {
+        "Year": 2017,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 3341
+    },
+    {
+        "Year": 2017,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 6513
+    },
+    {
+        "Year": 2017,
+        "Continent": "Asia",
+        "Disaster_Type": "Storm",
+        "Seq": 327
+    },
+    {
+        "Year": 2017,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 462
+    },
+    {
+        "Year": 2017,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 2302
+    },
+    {
+        "Year": 2017,
+        "Continent": "Oceania",
+        "Disaster_Type": "Flood",
+        "Seq": 222
+    },
+    {
+        "Year": 2018,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 2432
+    },
+    {
+        "Year": 2018,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1007
+    },
+    {
+        "Year": 2018,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 1201
+    },
+    {
+        "Year": 2018,
+        "Continent": "Americas",
+        "Disaster_Type": "Storm",
+        "Seq": 161
+    },
+    {
+        "Year": 2018,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2993
+    },
+    {
+        "Year": 2018,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 2825
+    },
+    {
+        "Year": 2018,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 978
+    },
+    {
+        "Year": 2018,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 688
+    },
+    {
+        "Year": 2018,
+        "Continent": "Oceania",
+        "Disaster_Type": "Flood",
+        "Seq": 123
+    },
+    {
+        "Year": 2019,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 3134
+    },
+    {
+        "Year": 2019,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1523
+    },
+    {
+        "Year": 2019,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 3456
+    },
+    {
+        "Year": 2019,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 7808
+    },
+    {
+        "Year": 2019,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 5109
+    },
+    {
+        "Year": 2019,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1248
+    },
+    {
+        "Year": 2019,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 1231
+    },
+    {
+        "Year": 2019,
+        "Continent": "Oceania",
+        "Disaster_Type": "Earthquake",
+        "Seq": 271
+    },
+    {
+        "Year": 2020,
+        "Continent": "Africa",
+        "Disaster_Type": "Flood",
+        "Seq": 1774
+    },
+    {
+        "Year": 2020,
+        "Continent": "Africa",
+        "Disaster_Type": "Storm",
+        "Seq": 103
+    },
+    {
+        "Year": 2020,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 446
+    },
+    {
+        "Year": 2020,
+        "Continent": "Americas",
+        "Disaster_Type": "Flood",
+        "Seq": 445
+    },
+    {
+        "Year": 2020,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 2015
+    },
+    {
+        "Year": 2020,
+        "Continent": "Asia",
+        "Disaster_Type": "Flood",
+        "Seq": 1557
+    },
+    {
+        "Year": 2020,
+        "Continent": "Asia",
+        "Disaster_Type": "Storm",
+        "Seq": 88
+    },
+    {
+        "Year": 2020,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 1144
+    },
+    {
+        "Year": 2020,
+        "Continent": "Europe",
+        "Disaster_Type": "Flood",
+        "Seq": 556
+    },
+    {
+        "Year": 2021,
+        "Continent": "Americas",
+        "Disaster_Type": "Earthquake",
+        "Seq": 513
+    },
+    {
+        "Year": 2021,
+        "Continent": "Asia",
+        "Disaster_Type": "Earthquake",
+        "Seq": 3225
+    },
+    {
+        "Year": 2021,
+        "Continent": "Europe",
+        "Disaster_Type": "Earthquake",
+        "Seq": 134
+    }
+]
