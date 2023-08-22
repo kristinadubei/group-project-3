@@ -15,6 +15,7 @@ In this research, we explored and visualized data of natural disasters around th
 ​
 ## Source of Data:  
 [Kaggle Natural Disasters Dataset](https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis "ALL NATURAL DISASTERS 1900-2021 / EOSDIS")
+
 We chose this dataset because it covers many aspects like disaster type, country, latitude, longitude, death toll, year, damage costs and others, which enable us to visualize and analyze trends and changes.
 ​
 ## The Collection, Exploration, and Cleanup Process:
