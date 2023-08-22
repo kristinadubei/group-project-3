@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +8,15 @@
   <title>Natural Disasters Dashboard</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css">
+  <link href="https://fonts.googleapis.com/css?family=Sanchez" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.css">
+  <link rel="stylesheet" type="text/css"
+    href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.Default.css">
+  <link rel="stylesheet" type="text/css" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+  <link rel="stylesheet" href="leaflet.extra-markers.min.css">
+  <link rel="stylesheet" href="index.css">
 </head>
+
 <body>
   <div class="container">
     <header class="jumbotron text-center">
@@ -33,9 +42,11 @@
         <h2>Disaster Selection</h2>
         <label for="disasterSelect">Select Disaster Type:</label>
         <select id="disasterSelect">
-          <option>Earthquake</option>
-          <option>Flood</option>
-          <option>Volcanic activity</option>
+            <option value="Earthquake">Earthquake</option>
+            <option value="Flood">Flood</option>
+            <option value="Landslide">Landslide</option>
+            <option value="Storm">Storm</option>
+            <option value="Volcanic Activity">Volcanic Activity</option>
         </select>
       </div>
     </div>
@@ -46,14 +57,38 @@
         <div id="map" style="width: 100%; height: 600px;"></div>
       </div>
     </div>
-  </div>
+    <div class="row" style="margin-top: 40px;">
+      <div class="container">
+        <label for="chartSelect">Chart:</label>
+        <select id="chartSelect">
+          <option value="disasterPerYear">Disaster Per Year</option>
+          <option value="mostFrequent">Most Frequent occurring disasters</option>
+        </select>
+      </div>
+    </div>
+    <div class="row">
+      <div id="line_graph"></div>
+    </div>
 
+    <div class="row">
+      <h2>Disasters Map</h2>
+      <div id="map-id"></div>
+    </div>
+  </div>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.15.1/moment.min.js"></script>
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
   <script src="app.js"></script>
   <script src="index.js"></script>
+  <script src="charts.js"></script>
+  <script src="leaflet.extra-markers.min.js"></script>
+  <script src="map.js"></script>
+ 
 </body>
+
 </html>
