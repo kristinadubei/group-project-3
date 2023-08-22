@@ -33,7 +33,7 @@ We chose this dataset because it covers many aspects like disaster type, country
 This chart illustrates how number of disasters goes up over time. It significantly goes up from 1996.
 ​
 + ![Chart 2](<bar_chart_of_most_occuring_disasters.png>)
-In this chart, we see the number of each disaster type. We notice that the most occurring disaster is a flood followed by a storm, while we notice that animal accidents, fog, impact, and glacial lake outbursts are the least occurring diasters.
+In this chart, we see the number of each disaster type. We notice that the most occurring disaster is a flood followed by a storm, while we notice that animal accidents, fog, impact, and glacial lake outbursts are the least occurring disasters.
 ​
 + ![Chart 3](<bar_chart_of_death_per_disaster.png>)
 This chart illustrates the death toll per disaster and which disaster is the most fatal than others. We notice that droughts followed by epidemics are the most fatal ones.
@@ -44,8 +44,8 @@ This chart shows countries with the number of disasters. We notice that the US f
 ## Conclusion 
 We found that in the last 20 years, disasters haven't ticked up, and floods and storms are the most occurring disasters in the five countries with the highest number of disasters.
 ​
-## Potential Next Steps for The Project:
-- The data of these records can be not very reliable particularly for years before 1960, so many countries were not capable to record incidents like floods, animal attacks, landslides, ...etc, still till today these incidents are not being always documented.
-- The number of deaths could be even bigger because Puerto Rico was hit by a hurricane and so many hospitals become out of service, so many patients missed their appointments for treatments as a result. So the number of deaths could be bigger in an indirect way.
-- As potential next steps we can only consider the most reliable data of 1985 and later, since more countries were more capable to record and document the incidents.
-- We can also investigate and consider deaths in the last 60 days following the disaster as indirect victims of the disasters.
+## Potential Limitations and Next Steps for The Project:
+- Given dataset can be not fully reliable, particularly for years prior to 1960 - many countries were not capable to record all incidents such as floods, animal attacks, landslides, etc. Even to this day, not every incident in the world is being documented.
+- The number of deaths or people affected by a disaster could be higher - the dataset is reporting only the number of people dead/affected that were documented, and many people can go missing without a trace, die at home not being able to reach a medical facility, etc. Therefore the number of deaths could be bigger in an indirect way.
+- Potential next steps we could only consider the more reliable data of 1985 and after, since more countries were able to record and document the incidents.
+- We could also investigate and consider deaths in the last 60 days following the disaster as indirect victims of the disasters.
