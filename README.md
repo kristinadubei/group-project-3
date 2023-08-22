@@ -44,7 +44,7 @@ This chart shows countries with the number of disasters. We notice that the US f
 ## Conclusion 
 We found that in the last 20 years, disasters haven't ticked up, and floods and storms are the most occurring disasters in the five countries with the highest number of disasters.
 ​
-## Potential Limitations and Next Steps for The Project:
+## Dataset Limitations and Potential Next Steps for The Project:
 - Given dataset can be not fully reliable, particularly for years prior to 1960 - many countries were not capable to record all incidents such as floods, animal attacks, landslides, etc. Even to this day, not every incident in the world is being documented.
 - The number of deaths or people affected by a disaster could be higher - the dataset is reporting only the number of people dead/affected that were documented, and many people can go missing without a trace, die at home not being able to reach a medical facility, etc. Therefore the number of deaths could be bigger in an indirect way.
 - Potential next steps we could only consider the more reliable data of 1985 and after, since more countries were able to record and document the incidents.
