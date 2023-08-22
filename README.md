@@ -11,7 +11,8 @@ As we know, the global climate disaster makes its impact on us more felt day by 
 * Elee Saleem (ID - elee-saleem)
 ​
 ## Summary
-    In this research, we explored and visualized data of natural disasters around the world which covered 16,000 records of data from 1900 to 2021 and analyzed how these statistics are changing, which disaster type is more impactful on humans and which country/continent has the most number of disasters.
+----------
+In this research, we explored and visualized data of natural disasters around the world which covered 16,000 records of data from 1900 to 2021 and analyzed how these statistics are changing, which disaster type is more impactful on humans and which country/continent has the most number of disasters.
 ​
 ## Source of Data:  
     https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
