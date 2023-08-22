@@ -4,11 +4,11 @@
 As we know, the global climate disaster makes its impact on us more felt day by day. Understanding the parameters created by the climate crisis will be helpful in deciding the measures we will take against it.
 ​
 ## Group Members:   
-    Nifa Coutinho
-    Khrystyna Dubei
-    Tran Duong
-    Makram KaraBibar
-    Elee Saleem
+* Nifa Coutinho (ID - NifaCout)
+* Khrystyna Dubei (ID - kristinadubei)
+* Tran Duong (ID - TranD93)
+* Makram KaraBibar (ID - makramkb)
+* Elee Saleem (ID - elee-saleem)
 ​
 ## Summary
     In this research, we explored and visualized data of natural disasters around the world which covered 16,000 records of data from 1900 to 2021 and analyzed how these statistics are changing, which disaster type is more impactful on humans and which country/continent has the most number of disasters.
