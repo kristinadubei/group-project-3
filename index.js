@@ -29,13 +29,19 @@ function mapping(data, year_para, disaster_type_para) {
         if(disaster_type_para === 'Flood'){
             color = 'blue';
         }
-        if(disaster_type_para === 'Volcanic activity'){
+        if(disaster_type_para === 'landslide'){
             color = 'orange';
+        }
+        if(disaster_type_para === 'storm'){
+            color = 'purple';
+        }
+        if(disaster_type_para === 'Volcanic activity'){
+            color = 'pink';
         }
         var marker = L.circleMarker([item.Latitude, item.Longitude], {
             radius: 2 * 5,
             fillColor: color,
-            color: 'white',
+            color: 'Yellow',
             weight: 1,
             opacity: 1,
             fillOpacity: 0.8
@@ -62,7 +68,7 @@ function World() {
     const yearSelect = document.getElementById('yearSelect');
     const disasterSelect = document.getElementById('disasterSelect');
     destroyMap();
-    fetch('map_data.json')
+    fetch('/database/map_data.json')
     .then(response => response.json())
     .then(data => {
         var year_para = yearSelect.value;
