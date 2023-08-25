@@ -32,15 +32,18 @@ We chose this dataset because it covers many aspects like disaster type, country
 - ![SpiderChart](images/spider-chart.png)
 ex. This chart illustrates how number of disasters goes up over time. It significantly goes up from 1996.
 ​
-- ![imagename](TargetUrl)
+- ![Map-1](images/map-1.png)
 ex. In this chart, we see the number of each disaster type. We notice that the most occurring disaster is a flood followed by a storm, while we notice that animal accidents, fog, impact, and glacial lake outbursts are the least occurring disasters.
 ​
-- ![imagename](TargetUrl)
+- ![Linechart](images/linechart.png)
 ex. This chart illustrates the death toll per disaster and which disaster is the most fatal than others. We notice that droughts followed by epidemics are the most fatal ones.
 ​
-- ![imagename](TargetUrl)
+- ![BarChart](images/bar-chart.png)
 ex. This chart shows countries with the number of disasters. We notice that the US followed by India, Indonesia, Bangladesh, and Iran are the most 5 countries with the number of disasters. 
 ​
+- ![Map-2](images/map2.png)
+ex. This chart shows countries with the number of disasters. We notice that the US followed by India, Indonesia, Bangladesh, and Iran are the most 5 countries with the number of disasters.
+
 ## Conclusion 
 In the last 20 years, disasters have not ticked up, floods and storms are the most occurring disasters in the five countries with the highest number of 
 disasters (India, Indonesia, Bangladesh, and Iran). Asia is the leading continent where the deadliest natural disasters happened.
