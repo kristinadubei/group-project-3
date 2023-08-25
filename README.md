@@ -30,19 +30,19 @@ We chose this dataset because it covers many aspects like disaster type, country
 ​
 ## Analysis and Explanation
 - ![SpiderChart](images/spider-chart.png)
-ex. This chart illustrates how number of disasters goes up over time. It significantly goes up from 1996.
+The spiderweb chart illustrates the percentage of death tolls from Natural Disasters by Continent.
 ​
 - ![Map-1](images/map-1.png)
-ex. In this chart, we see the number of each disaster type. We notice that the most occurring disaster is a flood followed by a storm, while we notice that animal accidents, fog, impact, and glacial lake outbursts are the least occurring disasters.
+The map illustrates the locations where the natural disasters took place, with additional filters available for the type of disaster and the year it took place. The death toll number appears as a pop-up when the marker for a particular disaster is clicked.
 ​
 - ![Linechart](images/linechart.png)
-ex. This chart illustrates the death toll per disaster and which disaster is the most fatal than others. We notice that droughts followed by epidemics are the most fatal ones.
+The line chart above represents the total number of disasters reported by year. There was  a significant increase in the number of disasters following 1960.
 ​
 - ![BarChart](images/bar-chart.png)
-ex. This chart shows countries with the number of disasters. We notice that the US followed by India, Indonesia, Bangladesh, and Iran are the most 5 countries with the number of disasters. 
+The bar chart here describes the disaster types by their frequencies from 1900 to 2021. Floods and storms were the most widespread types of disasters in the dataset of that time frame.
 ​
 - ![Map-2](images/map2.png)
-ex. This chart shows countries with the number of disasters. We notice that the US followed by India, Indonesia, Bangladesh, and Iran are the most 5 countries with the number of disasters.
+The map illustrates the locations where the natural disasters took place, with additional filters available for the type of disaster. Provides the ability to study the location of multiple types of disasters as one map layer. Additional information is revealed when the marker is clicked, such as location, type of disaster, year of occurrence and total deaths.
 
 ## Conclusion 
 In the last 20 years, disasters have not ticked up, floods and storms are the most occurring disasters in the five countries with the highest number of 
