@@ -29,7 +29,7 @@ We chose this dataset because it covers many aspects like disaster type, country
 - Using HTML enabled the preview of data as a webpage + CSS as code for styling.
 ​
 ## Analysis and Explanation
-- ![imagename](TargetUrl)
+- ![SpiderChart](images/spider-chart.png)
 ex. This chart illustrates how number of disasters goes up over time. It significantly goes up from 1996.
 ​
 - ![imagename](TargetUrl)
@@ -42,7 +42,11 @@ ex. This chart illustrates the death toll per disaster and which disaster is the
 ex. This chart shows countries with the number of disasters. We notice that the US followed by India, Indonesia, Bangladesh, and Iran are the most 5 countries with the number of disasters. 
 ​
 ## Conclusion 
-ex. We found that in the last 20 years, disasters haven't ticked up, and floods and storms are the most occurring disasters in the five countries with the highest number of disasters.
+In the last 20 years, disasters have not ticked up, floods and storms are the most occurring disasters in the five countries with the highest number of 
+disasters (India, Indonesia, Bangladesh, and Iran). Asia is the leading continent where the deadliest natural disasters happened.
+
+◦  **Geographical Vulnerability:** Asia's vast size and geographical diversity contribute to its susceptibility to a wide range of natural disasters, including earthquakes, tsunamis, typhoons, floods, and volcanic eruptions.
+◦ **Population Density:** Asia is the most populous continent, with many densely populated urban areas. When natural disasters strike, the potential for loss of life and damage to infrastructure is higher due to the concentration of people and assets.
 ​
 ## Dataset Limitations and Potential Next Steps for The Project:
 - Given dataset can be not fully reliable, particularly for years prior to 1960 - many countries were not capable to record all incidents such as floods, animal attacks, landslides, etc. Even to this day, not every incident in the world is being documented.
